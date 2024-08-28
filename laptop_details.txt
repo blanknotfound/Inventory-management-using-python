@@ -1,0 +1,5 @@
+Razer Blade, $2000,8
+XPS        , $1976,15
+Alienware  , $1978,24
+Swift 7    , $900 ,12
+Macbook Pro, $3500,10
